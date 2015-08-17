@@ -3,8 +3,8 @@ Contributors: dyadyalesha
 Plugin URI: http://vcad.dd-l.name/wp-plugins/
 Tags: dl, maintenance mode
 Requires at least: 3.2
-Tested up to: 3.8
-Stable tag: 1.0
+Tested up to: 4.3
+Stable tag: 1.1
 
 Включаем режим обслуживания на сайте 
 
